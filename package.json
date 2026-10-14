@@ -1,0 +1,32 @@
+{
+    "name": "brb_app",
+    "version": "0.0.1",
+    "description": "",
+    "license": "UNLICENSED",
+    "imports": {
+        "#now:*": "./@types/servicenow/fluent/*/index.js"
+    },
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "setup": "now-sdk build && now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies",
+        "dev": "now-sdk run dev",
+        "test": "vitest run"
+    },
+    "devDependencies": {
+        "@servicenow/glide": "27.0.5",
+        "@servicenow/isomorphic-rollup": "^1.3.11",
+        "@servicenow/sdk": "4.13.9",
+        "@types/react": "19.x",
+        "@types/react-dom": "19.x",
+        "typescript": "5.5.4",
+        "vitest": "4.1.11"
+    },
+    "dependencies": {
+        "@servicenow/react-components": "^0.1.8",
+        "react": "19.x",
+        "react-dom": "19.x"
+    }
+}

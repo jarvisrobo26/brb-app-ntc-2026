@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(npx)",
+      "Exec(mkdir)",
+      "Exec(cp)",
+      "Exec(gh issue)",
+      "Exec(ls)",
+      "Exec(node)",
+      "Exec(dirname)",
+      "Exec(/opt/homebrew/bin/gh api)",
+      "Exec(wc)"
+    ]
+  }
+}

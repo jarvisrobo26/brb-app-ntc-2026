@@ -1,0 +1,7 @@
+{
+    "scope": "x_snc_brb_app",
+    "scopeId": "99f46be7cab341c3920b74b7d1930cc7",
+    "name": "brb_app",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "packageSourceCodeOnInstance": true
+}
