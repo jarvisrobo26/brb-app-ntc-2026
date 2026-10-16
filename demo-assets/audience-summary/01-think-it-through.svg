@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="Inter, 'Helvetica Neue', Arial, sans-serif">
+<title>01 Think it through</title>
+<defs><linearGradient id="fog" x1="0" x2="1"><stop offset="0" stop-color="#C9C5BA"/><stop offset="0.5" stop-color="#8FB8A6"/><stop offset="1" stop-color="#0B6E4F"/></linearGradient><linearGradient id="live" x1="0" x2="1"><stop offset="0" stop-color="#8FA3CF"/><stop offset="1" stop-color="#2D4F9E"/></linearGradient><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6270"/></marker></defs>
+<rect width="1600" height="900" fill="#F7F6F2"/>
+<rect x="64" y="40" width="186" height="10" rx="4" fill="#0B6E4F" opacity="1"/>
+<text x="64" y="76" font-size="16" font-weight="800" fill="#1B1F24">01 Think it through</text>
+<rect x="264" y="40" width="186" height="6" rx="4" fill="#DAD7CE" opacity="1"/>
+<text x="264" y="76" font-size="16" font-weight="500" fill="#5A6270">02 Break it down</text>
+<rect x="464" y="40" width="186" height="6" rx="4" fill="#DAD7CE" opacity="1"/>
+<text x="464" y="76" font-size="16" font-weight="500" fill="#5A6270">03 Check it</text>
+<rect x="664" y="40" width="186" height="6" rx="4" fill="#DAD7CE" opacity="1"/>
+<text x="664" y="76" font-size="16" font-weight="500" fill="#5A6270">04 Prove it works</text>
+<rect x="864" y="40" width="186" height="6" rx="4" fill="#DAD7CE" opacity="1"/>
+<text x="864" y="76" font-size="16" font-weight="500" fill="#5A6270">05 Ship it safely</text>
+<rect x="1064" y="40" width="186" height="6" rx="4" fill="#DAD7CE" opacity="1"/>
+<text x="1064" y="76" font-size="16" font-weight="500" fill="#5A6270">06 Learn from it</text>
+<text x="1536" y="76" text-anchor="end" font-size="16" font-weight="700" letter-spacing="1.5" fill="#0B6E4F">PLAN · STAGE 01 OF 06</text>
+<text x="1536" y="250" text-anchor="end" font-size="190" font-weight="800" fill="#0B6E4F" opacity="0.13">01</text>
+<text x="64" y="186" font-size="64" font-weight="800" fill="#1B1F24">Think it through</text>
+<text x="66" y="240" font-size="32" fill="#5A6270">Figure out what we are building.</text>
+<rect x="64" y="280" width="1472" height="14" rx="7" fill="url(#fog)"/>
+<circle cx="314.24" cy="287" r="16" fill="#FFFFFF" stroke="#0B6E4F" stroke-width="5"/>
+<text x="64" y="324" font-size="18" font-weight="600" fill="#5A6270">unknown</text>
+<text x="1536" y="324" text-anchor="end" font-size="18" font-weight="600" fill="#5A6270">clear</text>
+<rect x="64.0" y="350" width="720.0" height="280" rx="22" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="100.0" y="386" width="247" height="64" rx="32.0" fill="#14181D"/><text x="118.0" y="430" font-size="34" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/wayfinder</text>
+<text x="100.0" y="500" font-size="31" font-weight="700" fill="#1B1F24">Maps what is still unknown as decision</text>
+<text x="100.0" y="540" font-size="31" font-weight="700" fill="#1B1F24">tickets.</text>
+<text x="100.0" y="600" font-size="26" fill="#5A6270">Plans. Never builds.</text>
+<rect x="816.0" y="350" width="720.0" height="280" rx="22" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="852.0" y="386" width="373" height="64" rx="32.0" fill="#14181D"/><text x="870.0" y="430" font-size="34" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/grill-with-docs</text>
+<text x="852.0" y="500" font-size="31" font-weight="700" fill="#1B1F24">Interviews you and writes the decision</text>
+<text x="852.0" y="540" font-size="31" font-weight="700" fill="#1B1F24">down.</text>
+<text x="852.0" y="600" font-size="26" fill="#5A6270">One question round at a time.</text>
+<rect x="64" y="654" width="1472" height="68" rx="16" fill="#E3F1EA"/>
+<text x="96" y="698" font-size="20" font-weight="800" letter-spacing="1.6" fill="#0B6E4F">ON BRB</text>
+<text x="210" y="699" font-size="27" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#1B1F24">Map #2  →  decision tickets #3–#18  →  ADR 0001–0009</text>
+<text x="64" y="784" font-size="20" font-weight="800" letter-spacing="1.6" fill="#5A6270">LEAVES BEHIND</text>
+<text x="272" y="786" font-size="32" font-weight="800" fill="#1B1F24">ADRs + glossary</text>
+<rect x="1059.6799999999998" y="746" width="476.32000000000005" height="62" rx="31" fill="#7A2E8C"/>
+<circle cx="1095.6799999999998" cy="777" r="10" fill="#FFFFFF"/>
+<text x="1119.6799999999998" y="788" font-size="32" font-weight="800" fill="#FFFFFF">You sign the decision</text>
+<text x="1039.6799999999998" y="786" text-anchor="end" font-size="20" font-weight="800" letter-spacing="1.6" fill="#7A2E8C">GATE</text>
+</svg>

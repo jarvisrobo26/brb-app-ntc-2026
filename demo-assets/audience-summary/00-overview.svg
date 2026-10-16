@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="Inter, 'Helvetica Neue', Arial, sans-serif">
+<title>The agentic engineering loop</title>
+<defs><linearGradient id="fog" x1="0" x2="1"><stop offset="0" stop-color="#C9C5BA"/><stop offset="0.5" stop-color="#8FB8A6"/><stop offset="1" stop-color="#0B6E4F"/></linearGradient><linearGradient id="live" x1="0" x2="1"><stop offset="0" stop-color="#8FA3CF"/><stop offset="1" stop-color="#2D4F9E"/></linearGradient><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#5A6270"/></marker></defs>
+<rect width="1600" height="900" fill="#F7F6F2"/>
+<text x="64" y="92" font-size="20" font-weight="700" letter-spacing="2" fill="#0B6E4F">PART 2 · RECAP · THE WORKFLOW</text>
+<text x="64" y="150" font-size="54" font-weight="800" fill="#1B1F24">Agents do the stages. You sign the gates.</text>
+<text x="64" y="240" font-size="26" font-weight="800" letter-spacing="2" fill="#0B6E4F">PLAN</text>
+<text x="64" y="272" font-size="18" fill="#5A6270">unknown → clear</text>
+<rect x="64" y="290" width="112" height="8" rx="4" fill="url(#fog)"/>
+<rect x="210" y="200" width="400" height="270" rx="20" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="210" y="200" width="400" height="10" rx="5" fill="#0B6E4F"/>
+<text x="238" y="266" font-size="40" font-weight="800" fill="#0B6E4F">01</text>
+<text x="302" y="264" font-size="32" font-weight="800" fill="#1B1F24">Think it through</text>
+<rect x="238" y="292" width="172" height="42" rx="21.0" fill="#14181D"/><text x="256" y="321" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/wayfinder</text>
+<rect x="238" y="346" width="254" height="42" rx="21.0" fill="#14181D"/><text x="256" y="375" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/grill-with-docs</text>
+<line x1="238" y1="404" x2="582" y2="404" stroke="#DAD7CE"/>
+<circle cx="250" cy="438" r="9" fill="#7A2E8C"/>
+<text x="270" y="446" font-size="23" font-weight="700" fill="#7A2E8C">You sign the decision</text>
+<line x1="616" y1="335.0" x2="640" y2="335.0" stroke="#5A6270" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="646" y="200" width="400" height="270" rx="20" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="646" y="200" width="400" height="10" rx="5" fill="#0B6E4F"/>
+<text x="674" y="266" font-size="40" font-weight="800" fill="#0B6E4F">02</text>
+<text x="738" y="264" font-size="32" font-weight="800" fill="#1B1F24">Break it down</text>
+<rect x="674" y="292" width="145" height="42" rx="21.0" fill="#14181D"/><text x="692" y="321" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/to-spec</text>
+<rect x="674" y="346" width="186" height="42" rx="21.0" fill="#14181D"/><text x="692" y="375" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/to-tickets</text>
+<line x1="674" y1="404" x2="1018" y2="404" stroke="#DAD7CE"/>
+<circle cx="686" cy="438" r="9" fill="#7A2E8C"/>
+<text x="706" y="446" font-size="23" font-weight="700" fill="#7A2E8C">You approve the plan</text>
+<line x1="1052" y1="335.0" x2="1076" y2="335.0" stroke="#5A6270" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="1082" y="200" width="400" height="270" rx="20" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="1082" y="200" width="400" height="10" rx="5" fill="#0B6E4F"/>
+<text x="1110" y="266" font-size="40" font-weight="800" fill="#0B6E4F">03</text>
+<text x="1174" y="264" font-size="32" font-weight="800" fill="#1B1F24">Check it</text>
+<rect x="1110" y="292" width="172" height="42" rx="21.0" fill="#14181D"/><text x="1128" y="321" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/implement</text>
+<rect x="1110" y="346" width="200" height="42" rx="21.0" fill="#14181D"/><text x="1128" y="375" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/code-review</text>
+<line x1="1110" y1="404" x2="1454" y2="404" stroke="#DAD7CE"/>
+<circle cx="1122" cy="438" r="9" fill="#7A2E8C"/>
+<text x="1142" y="446" font-size="23" font-weight="700" fill="#7A2E8C">You approve the rule</text>
+<text x="64" y="560" font-size="26" font-weight="800" letter-spacing="2" fill="#2D4F9E">DELIVER</text>
+<text x="64" y="592" font-size="18" fill="#5A6270">built → live</text>
+<rect x="64" y="610" width="112" height="8" rx="4" fill="url(#live)"/>
+<rect x="210" y="520" width="400" height="270" rx="20" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="210" y="520" width="400" height="10" rx="5" fill="#2D4F9E"/>
+<text x="238" y="586" font-size="40" font-weight="800" fill="#2D4F9E">04</text>
+<text x="302" y="584" font-size="32" font-weight="800" fill="#1B1F24">Prove it works</text>
+<rect x="238" y="612" width="91" height="42" rx="21.0" fill="#14181D"/><text x="256" y="641" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/tdd</text>
+<rect x="238" y="666" width="159" height="42" rx="21.0" fill="#DAD7CE"/><text x="256" y="695" font-size="22" font-weight="700" fill="#1B1F24">test suite</text>
+<line x1="238" y1="724" x2="582" y2="724" stroke="#DAD7CE"/>
+<circle cx="250" cy="758" r="9" fill="#7A2E8C"/>
+<text x="270" y="766" font-size="23" font-weight="700" fill="#7A2E8C">You approve the contract</text>
+<line x1="616" y1="655.0" x2="640" y2="655.0" stroke="#5A6270" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="646" y="520" width="400" height="270" rx="20" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="646" y="520" width="400" height="10" rx="5" fill="#2D4F9E"/>
+<text x="674" y="586" font-size="40" font-weight="800" fill="#2D4F9E">05</text>
+<text x="738" y="584" font-size="32" font-weight="800" fill="#1B1F24">Ship it safely</text>
+<rect x="674" y="612" width="77" height="42" rx="21.0" fill="#14181D"/><text x="692" y="641" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/pr</text>
+<rect x="674" y="666" width="135" height="42" rx="21.0" fill="#DAD7CE"/><text x="692" y="695" font-size="22" font-weight="700" fill="#1B1F24">rollback</text>
+<line x1="674" y1="724" x2="1018" y2="724" stroke="#DAD7CE"/>
+<circle cx="686" cy="758" r="9" fill="#7A2E8C"/>
+<text x="706" y="766" font-size="23" font-weight="700" fill="#7A2E8C">You press release</text>
+<line x1="1052" y1="655.0" x2="1076" y2="655.0" stroke="#5A6270" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="1082" y="520" width="400" height="270" rx="20" fill="#FFFFFF" stroke="#DAD7CE" stroke-width="1.5"/>
+<rect x="1082" y="520" width="400" height="10" rx="5" fill="#2D4F9E"/>
+<text x="1110" y="586" font-size="40" font-weight="800" fill="#2D4F9E">06</text>
+<text x="1174" y="584" font-size="32" font-weight="800" fill="#1B1F24">Learn from it</text>
+<rect x="1110" y="612" width="118" height="42" rx="21.0" fill="#14181D"/><text x="1128" y="641" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">/retro</text>
+<rect x="1110" y="666" width="159" height="42" rx="21.0" fill="#14181D"/><text x="1128" y="695" font-size="22" font-weight="700" font-family="'SF Mono', Menlo, Consolas, monospace" fill="#7BD88F">AGENTS.md</text>
+<line x1="1110" y1="724" x2="1454" y2="724" stroke="#DAD7CE"/>
+<circle cx="1122" cy="758" r="9" fill="#7A2E8C"/>
+<text x="1142" y="766" font-size="23" font-weight="700" fill="#7A2E8C">You approve the rule</text>
+<path d="M1282.0,474 v20 H410.0 v20" fill="none" stroke="#5A6270" stroke-width="3" marker-end="url(#ah)"/>
+<path d="M1282.0,794 v22 H188 V335.0 h16" fill="none" stroke="#7A2E8C" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#ah)"/>
+<text x="1268.0" y="810" text-anchor="end" font-size="17" font-weight="700" fill="#7A2E8C">next run</text>
+<text x="64" y="872" font-size="24" fill="#5A6270"><tspan font-weight="800" fill="#7A2E8C">The loop closes:</tspan> every failure in 06 becomes a rule the next 01 reads first.</text>
+</svg>
